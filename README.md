@@ -2,8 +2,6 @@
 
 👀 I’m interested in Machine Learning / Computer Vision, Bioinformatics Research - ATAC-Seq Analysis etc..
 
-🌱 I’m currently looking for opportunities in Data Science and Bioinformatics.
-
 📫 How to reach me: 510-3659409 / seanbai@berkeley.edu
 
 <!---
